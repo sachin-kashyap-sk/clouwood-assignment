@@ -1,0 +1,17 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.newsText {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.titles {
+  font-size: 18px;
+  font-weight: 500;
+  padding-top: 10px;
+}
